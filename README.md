@@ -6,8 +6,8 @@ Attempting AOC 2022 problems because this is something I didn't know existed. <b
 |:---:|:---:|:---:|:---:|:---:|
 |Day 01| [Counting Calories](https://adventofcode.com/2022/day/1) |[Solution](https://github.com/ShubhangiXD/AoC-2022-solutions/blob/main/AOC_DAY1.java) | &check; | &check;|
 |Day 02| [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [Solution](https://github.com/ShubhangiXD/AoC-2022-solutions/blob/main/AOC_DAY2.java) | &check; | &check; |
-|Day 03| [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [Solutions](https://github.com/ShubhangiXD/AoC-2022-solutions/blob/main/AOC_DAY3.java) | &check; | &check; |
-|Day 04| Camp Cleanup | | |  |
+|Day 03| [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [Solution](https://github.com/ShubhangiXD/AoC-2022-solutions/blob/main/AOC_DAY3.java) | &check; | &check; |
+|Day 04| [Camp Cleanup](https://adventofcode.com/2022/day/4) | Solution | &check; | &check; |
 |Day 05| Supply Stacks | | |  |
 |Day 06| Tuning Trouble | | |  |
 |Day 07| No Space Left On Device | | |  |
