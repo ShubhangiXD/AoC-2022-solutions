@@ -24,4 +24,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 |Day 12| Rock Paper Scissors |  |  | -->
 
 # Contributions
-Read CONTRIBUTIONS.md to learn more about how to contribute!
+Read [CONTRIBUTIONS.md](https://github.com/ShubhangiXD/AoC-solutions/blob/main/CONTRIBUTIONS.md) to learn more about how to contribute!
