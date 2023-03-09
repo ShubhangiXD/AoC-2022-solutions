@@ -15,7 +15,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 |Day 03| [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [Solution](https://github.com/ShubhangiXD/AoC-2022-solutions/blob/main/AOC_DAY3.java) | &check; | &check; |
 |Day 04| [Camp Cleanup](https://adventofcode.com/2022/day/4) | [Solution](https://github.com/ShubhangiXD/AoC-solutions/blob/main/AOC_2022/AOC_DAY4.java) | &check; | &check; |
 |Day 05| [Supply Stacks](https://adventofcode.com/2022/day/5) | [Solution](https://github.com/ShubhangiXD/AoC-solutions/blob/main/AOC_2022/AOC_DAY5.java) | &check; | &check; |
-|Day 06| Tuning Trouble | | &check; | &check; |
+|Day 06| [Tuning Trouble](https://adventofcode.com/2022/day/6) | [Solution](https://github.com/ShubhangiXD/AoC-solutions/blob/main/AOC_2022/AOC_DAY6.java) | &check; | &check; |
 |Day 07| No Space Left On Device | | |  |
 <!-- |Day 08| Rock Paper Scissors |  |  | 
 |Day 09| Rock Paper Scissors |  |  |
